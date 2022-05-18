@@ -1,0 +1,54 @@
+html {
+    display: justify;
+    font-family: Garamond, serif;
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-color: black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+#header {
+    font-size: 70px;
+    text-align: center;
+    border: 2px solid white;
+}
+
+#established {
+    font-size: 0.25em;
+    padding-left: 10px;
+    padding-bottom: 0px;
+}
+
+#amy {
+    max-width: 20rem;
+}
+
+.content {
+    display: inline-block;
+    min-height: 500px;
+    margin: auto;
+    padding-top: 70px;
+}
+
+.team-members {
+    display: inline-block;
+    background-color: red;
+    background-size: contain;   
+}
+
+#portfolio {
+    background-color: red;
+    background-size: contain;
+}
